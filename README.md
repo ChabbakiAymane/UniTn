@@ -14,7 +14,7 @@ simbolo  | significato
 
 ### Primo semestre
 
-- 🔨 [Appunti di Analisi](https://github.com/ZamboniM/Analisi1-UNITN)
+- 🔨 [Appunti di Analisi](https://github.com/ChabbakiAymane/Analisi1-Unitn)
 - ✔️ [Appunti di Programmazione 1](https://github.com/FrancescoBozzo/Appunti-Programmazione1/)
 
 
