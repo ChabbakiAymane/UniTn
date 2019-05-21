@@ -18,4 +18,4 @@ simbolo  | significato
 ### Secondo semestre
 - 🔨 [Fondamenti matematici per l'informatica](https://github.com/ChabbakiAymane/Fondamenti-matematici-per-l-informatica)
 - ❌ Probabilità e statistica
-- 🔨 [Codice esercizi giornalieri](https://github.com/mfranzil/PSUniTN/)
+- 🔨 [Codice esercizi giornalieri]
