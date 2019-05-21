@@ -1,9 +1,6 @@
 # Dispense di Chabby
 
-[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
-
-Le dispense qui presenti sono una raccolta degli appunti che presi in LaTeX durante il mio percorso di laurea triennale.
-Comprendono principalmente schemi, riassunti e esercizi su argomenti d'esame.
+Le dispense qui presenti sono una raccolta degli appunti presi in LaTeX durante il mio percorso di laurea triennale all'università di Trento. Comprendono principalmente schemi, riassunti ed esercizi.
 
 ## Legenda
 
@@ -12,7 +9,6 @@ simbolo  | significato
 ✔️ | completo
 🔨 | incompleto
 🆕 | appena rilasciata
-⌛ | in rilascio
 ❌ | in cerca di contributi
 
 ### Primo semestre
@@ -24,4 +20,4 @@ simbolo  | significato
 ### Secondo semestre
 - ✔️ [Fondamenti matematici per l'informatica](https://github.com/mfranzil/TeoremiFMIUniTN)
 - ❌ Probabilità e statistica
-- ⌛ [Codice esercizi giornalieri](https://github.com/mfranzil/PSUniTN/)
+- 🔨 [Codice esercizi giornalieri](https://github.com/mfranzil/PSUniTN/)
