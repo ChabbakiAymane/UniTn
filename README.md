@@ -1,4 +1,4 @@
-# Dispense di Chabby
+# Introduzione
 
 Le dispense qui presenti sono una raccolta degli appunti presi in LaTeX durante il mio percorso di laurea triennale all'università di Trento. 
 Comprendono principalmente riassunti teorici dei vari corsi di informatica, schemi ed esercizi d'esame.
