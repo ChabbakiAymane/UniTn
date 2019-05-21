@@ -17,11 +17,11 @@ simbolo  | significato
 
 ### Primo semestre
 
-- 🔨 [Appunti di Analisi](https://github.com/ZamboniM/Analisi1-UNITN) di [_Marco Zamboni_](https://github.com/ZamboniM)
-- ✔️ [Appunti di Programmazione 1](https://github.com/FrancescoBozzo/Appunti-Programmazione1/) di [_Francesco Bozzo_](https://github.com/FrancescoBozzo) e [_Samuel Conti_](https://github.com/Samaretas)
+- 🔨 [Appunti di Analisi](https://github.com/ZamboniM/Analisi1-UNITN)
+- ✔️ [Appunti di Programmazione 1](https://github.com/FrancescoBozzo/Appunti-Programmazione1/)
 
 
 ### Secondo semestre
-- ✔️ [Fondamenti matematici per l'informatica](https://github.com/mfranzil/TeoremiFMIUniTN) di [_Matteo Franzil_](https://github.com/mfranzil) & [manutentori](https://github.com/mfranzil/FMIUniTN#authors)
-- 🔨 Probabilità e statistica
-- ⌛ [Codice esercizi giornalieri](https://github.com/mfranzil/PSUniTN/) di [_Matteo Franzil_](https://github.com/mfranzil)
+- ✔️ [Fondamenti matematici per l'informatica](https://github.com/mfranzil/TeoremiFMIUniTN)
+- ❌ Probabilità e statistica
+- ⌛ [Codice esercizi giornalieri](https://github.com/mfranzil/PSUniTN/)
