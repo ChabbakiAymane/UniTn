@@ -17,5 +17,5 @@ simbolo  | significato
 
 ### Secondo semestre
 - 🔨 [Fondamenti matematici per l'informatica](https://github.com/ChabbakiAymane/Fondamenti-matematici-per-l-informatica)
-- ❌ [Probabilità e statistica] (https://github.com/ChabbakiAymane/Statistica-e-Probabilita)
+- ❌ [Probabilità e statistica](https://github.com/ChabbakiAymane/Statistica-e-Probabilita)
 - 🔨 [Codice esercizi giornalieri]
