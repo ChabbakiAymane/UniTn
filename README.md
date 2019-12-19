@@ -16,6 +16,9 @@ simbolo  | significato
 - ✔️ [Appunti di Analisi](https://github.com/ChabbakiAymane/Analisi1-Unitn)
 
 ### Secondo semestre
-- 🔨 [Fondamenti matematici per l'informatica](https://github.com/ChabbakiAymane/Fondamenti-matematici-per-l-informatica)
-- ❌ [Probabilità e statistica](https://github.com/ChabbakiAymane/Statistica-e-Probabilita)
-- 🔨 [Codice esercizi giornalieri]
+- ✔️ [Fondamenti matematici per l'informatica](https://github.com/ChabbakiAymane/Fondamenti-matematici-per-l-informatica)
+- ✔️ [Probabilità e statistica - Esercizi giornalieri](https://github.com/ChabbakiAymane/Statistica-e-Probabilita)
+
+### Terzo semestre
+- 🔨|❌ [Reti]()
+- 🔨|❌ [Database](https://github.com/ChabbakiAymane/Database)
